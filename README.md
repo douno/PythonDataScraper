@@ -1,4 +1,5 @@
-# Scraper
+# Python Data Scraping Utility Functions 
+
 Utility functions for scraping data from apps online using Beautifulsoup
 
 ## How to set up?
