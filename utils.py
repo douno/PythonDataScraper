@@ -2,6 +2,11 @@ import requests, json, re, math, time, glob
 from bs4 import BeautifulSoup
 
 import socket
+import requests
+import json
+import time
+import glob
+import pandas as pd
 
 def get_the_soup(api_url):
     data = requests.get(api_url)
