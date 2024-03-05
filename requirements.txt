@@ -1,2 +1,5 @@
 beautifulsoup4
+black
+flake8
+isort
 requests
